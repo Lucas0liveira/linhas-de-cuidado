@@ -16,7 +16,7 @@ O ambiente de desenvolvimento do projeto é dividido em serviços operando em co
 ## Instalação
 
 #### Requisitos
-- Docker
+- Docker 
 - Docker-Compose
 
 #### Passo-a-Passo
